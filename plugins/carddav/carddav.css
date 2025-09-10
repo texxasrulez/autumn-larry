@@ -88,11 +88,11 @@
 
 #addressbooks-table li.addressbook a {
     padding-left: 52px;  /* 36 + 1 x 16 */
-    background-position: 22px -791px;  /* 6 + 1 x 16 */
+    background-position: 22px -766px;  /* 6 + 1 x 16 */
 }
 #addressbooks-table li.addressbook > a:focus,
 #addressbooks-table li.addressbook.selected > a {
-    background-position: 22px -766px;
+    background-position: 22px -791px;
 }
 #addressbooks-table li.addressbook div.treetoggle {
     left: 33px;
