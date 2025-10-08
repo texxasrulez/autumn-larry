@@ -10,7 +10,7 @@ CSS Fixes and code cleanup.
 
 **Composer Install**
 ```
-composer require "texxasrulez/autumn-larry:~1.0"
+composer require "texxasrulez/autumn-larry"
 ```
 
 **Compatible with RC Version: 1.4.x and beyond**
@@ -53,6 +53,8 @@ tasklist\
 vcard_attachments\
 zipdownload
 
+---
+
 The Larry Skin from Roundcube 1.3 was used, so you must be running RC 1.3 or higher.
 
 Keep coming back often as I have plans on at least 18 total skins.
@@ -63,12 +65,19 @@ Note: Current Commit should be a working version of my ongoing nitpicking of som
 
 Latest Update makes skins compatible with Roundcube 1.4 ...
 
+---
+
 :moneybag: **Donations** :moneybag:
 
 If you use these Skins and would like to show your appreciation by buying me a cup of coffee, I surely would appreciate it. It took me almost 6 months to create these and evidently the time from then till now (end date not in sight) to refine it. It is all good. I love it and do it to repay the OSS Community, but it would make the world of difference if just a few user wanted to buy me a coffee. A regular cup of Joe is great, but a Starbucks Coffee would be better ... \
 Zelle (Zelle is integrated within many major banks Mobile Apps by default) - Just send to texxasrulez at yahoo dot com \
 No Zelle in your banks mobile app, no problem, just click [Paypal](https://paypal.me/texxasrulez?locale.x=en_US) and I can make a Starbucks run ...
 
+---
+
+**Screenshot**
+
+![Autumn Larry Skin](images/autumn-mail.png?raw=true "Autumn Larry Skin")
 
 Original Author Credits:
 Larry
